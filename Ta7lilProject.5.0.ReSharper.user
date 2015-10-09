@@ -1,0 +1,228 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:interpolation.Designer.cs" caret="11036" fromTop="9" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Welcome.Designer.cs" caret="0" fromTop="0" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:interpolation.cs" caret="3372" fromTop="8" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Welcome.cs" caret="2152" fromTop="57" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Share.cs" caret="254" fromTop="9" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Integration.Designer.cs" caret="8999" fromTop="10" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:IntegrationClass.cs" caret="0" fromTop="0" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:InterpolationClass.cs" caret="5734" fromTop="13" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.Designer.cs" caret="494" fromTop="13" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Program.cs" caret="321" fromTop="13" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Polynomial.cs" caret="2326" fromTop="0" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Integration.cs" caret="4559" fromTop="5" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:deriveationclass.cs" caret="3412" fromTop="29" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="5576" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.Designer.cs" caret="8446" fromTop="6" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="569" fromTop="12" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="453" fromTop="7" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="778" fromTop="12" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="1410" fromTop="23" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.Designer.cs" caret="8479" fromTop="9" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.Designer.cs" caret="8717" fromTop="13" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="1411" fromTop="14" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="1139" fromTop="2" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="1521" fromTop="12" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="2717" fromTop="15" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="3905" fromTop="23" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Integration.cs" caret="274" fromTop="0" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:deriveationclass.cs" caret="1254" fromTop="19" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:deriveationclass.cs" caret="233" fromTop="2" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="1246" fromTop="12" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:deriveationclass.cs" caret="1143" fromTop="22" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:deriveationclass.cs" caret="1981" fromTop="22" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:deriveationclass.cs" caret="1503" fromTop="4" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:deriveationclass.cs" caret="360" fromTop="6" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:deriveationclass.cs" caret="1777" fromTop="11" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Polynomial.cs" caret="2616" fromTop="16" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Polynomial.cs" caret="2326" fromTop="12" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="5702" fromTop="17" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="4072" fromTop="20" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:deriveationclass.cs" caret="2221" fromTop="6" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:deriveationclass.cs" caret="3412" fromTop="17" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="5679" fromTop="16" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="5576" fromTop="18" />
+      <File id="13E110A3-BFE6-4C7E-8080-072384C4F24C/f:Deriveation.cs" caret="5887" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Application`0" priority="2" />
+      <Item value="interpolation`0" priority="1" />
+      <Item value="Close`0" priority="3" />
+      <Item value="break" priority="7" />
+      <Item value="Poly`0" priority="1" />
+      <Item value="float" priority="6" />
+      <Item value="public" priority="11" />
+      <Item value="next" priority="1" />
+      <Item value="Polynomial`0" priority="59" />
+      <Item value="new" priority="15" />
+      <Item value="amthal" priority="0" />
+      <Item value="power" priority="0" />
+      <Item value="null" priority="3" />
+      <Item value="for" priority="6" />
+      <Item value="from" priority="0" />
+      <Item value="Constant" priority="1" />
+      <Item value="Length" priority="0" />
+      <Item value="temp" priority="38" />
+      <Item value="i" priority="7" />
+      <Item value="double" priority="34" />
+      <Item value="string" priority="5" />
+      <Item value="return" priority="9" />
+      <Item value="result" priority="1" />
+      <Item value="if" priority="7" />
+      <Item value="p" priority="5" />
+      <Item value="else" priority="9" />
+      <Item value="node" priority="7" />
+      <Item value="Polynomial" priority="10" />
+      <Item value="x" priority="6" />
+      <Item value="amthallagrang" priority="1" />
+      <Item value="onepoly" priority="5" />
+      <Item value="case" priority="3" />
+      <Item value="InterpolationClass`0" priority="2" />
+      <Item value="xcolum" priority="7" />
+      <Item value="NumOfNode" priority="6" />
+      <Item value="LoaderOptimization`0" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="false" priority="5" />
+      <Item value="loop" priority="2" />
+      <Item value="true" priority="6" />
+      <Item value="ycolum" priority="4" />
+      <Item value="static" priority="5" />
+      <Item value="enum" priority="0" />
+      <Item value="void" priority="2" />
+      <Item value="var" priority="0" />
+      <Item value="int" priority="8" />
+      <Item value="y" priority="4" />
+      <Item value="diffrencedivison" priority="1" />
+      <Item value="array" priority="2" />
+      <Item value="add" priority="2" />
+      <Item value="Integration" priority="0" />
+      <Item value="formintegration" priority="3" />
+      <Item value="Integration`0" priority="0" />
+      <Item value="auxarray" priority="3" />
+      <Item value="sum" priority="2" />
+      <Item value="h" priority="12" />
+      <Item value="IntegrationClass`0" priority="0" />
+      <Item value="Result" priority="1" />
+      <Item value="label3" priority="0" />
+      <Item value="comboBox1" priority="1" />
+      <Item value="label4" priority="0" />
+      <Item value="textBox2" priority="6" />
+      <Item value="c" priority="1" />
+      <Item value="constant" priority="1" />
+      <Item value="Share`0" priority="0" />
+      <Item value="point" priority="1" />
+      <Item value="#endregion" priority="0" />
+      <Item value="Newton" priority="0" />
+      <Item value="OrderedParallelQuery" priority="0" />
+      <Item value="integration" priority="0" />
+      <Item value="default" priority="2" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="BeginNode" priority="0" />
+      <Item value="result1" priority="0" />
+      <Item value="while" priority="1" />
+      <Item value="l" priority="11" />
+      <Item value="D`0" priority="0" />
+      <Item value="Deriveation`0" priority="1" />
+      <Item value="XarrayZero" priority="0" />
+      <Item value="YarrayZero" priority="0" />
+      <Item value="DalthY" priority="3" />
+      <Item value="Y" priority="2" />
+      <Item value="Dalth2Y" priority="4" />
+      <Item value="Double`0" priority="0" />
+      <Item value="Dath3Y" priority="0" />
+      <Item value="Dalth3Y" priority="3" />
+      <Item value="first" priority="6" />
+      <Item value="second" priority="9" />
+      <Item value="third" priority="16" />
+      <Item value="p2" priority="0" />
+      <Item value="temp1" priority="14" />
+      <Item value="temp2" priority="3" />
+      <Item value="ff" priority="1" />
+      <Item value="deriveationclass`0" priority="1" />
+      <Item value="textBox1" priority="0" />
+      <Item value="label1" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="newton" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Exit`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Ta7lilProject.Polynomial">
+      <Item value="insert`0" priority="21" />
+      <Item value="show`0" priority="0" />
+      <Item value="tostring`0" priority="6" />
+      <Item value="add`0" priority="6" />
+      <Item value="multi`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ta7lilProject.Polynomial">
+      <Item value="power" priority="6" />
+      <Item value="amthal" priority="5" />
+      <Item value="next" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Ta7lilProject.InterpolationClass">
+      <Item value="lagrang`0" priority="0" />
+      <Item value="Splin`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Ta7lilProject.IntegrationClass">
+      <Item value="Simpson`0" priority="0" />
+      <Item value="oblong`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Visible" priority="3" />
+      <Item value="Text" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Visible" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Text" priority="0" />
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Ta7lilProject.Share">
+      <Item value="Isnumber`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Ta7lilProject.deriveationclass">
+      <Item value="Newton`0" priority="0" />
+      <Item value="Newtonsecond`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
